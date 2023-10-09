@@ -1,0 +1,17 @@
+<html>
+<head></head>
+<body>
+<h1>Mathematical Equationa</h1><br/><br/><br/>
+<b>Mathematical formulas</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Factoring formulas</b><br/><br/>
+<b>Area of Square:A=1<sup>2</sup></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>a<sup>2</sup> - b<sup>2</sup> = (a-b)<sup>*</sup>(a+b)</b><br/><br/>
+<b>Area of circle : A = 3.14<sup>*</sup>r<sup>2</sup></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>a<sup>4</sup> - b<sup>4</sup> = (a-b)<sup>*</sup> (a+b)<sup>*</sup>(a<sup>2</sup> + b<sup>2</sup>)</b><br/><br/>
+<b>Area of Sphere : A = 4<sup>*</sup>3.14 <sup>*</sup>4<sup>2</sup></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>a<sup>6</sup> - b<sup>6</sup> = (a-b)<sup>*</sup> (a+b)<sup>*</sup>(a<sup>2</sup>-ab + b<sup>2</sup>)<sup>*</sup>(a<sup>2</sup> + ab + b<sup>2</sup>)</b><br/><br/>
+<b>Area of Cube : v = s<sup>3</sup></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>a<sup>3</sup> + b<sup>3</sup> = (a+b)<sup>*</sup>(a<sup>2</sup> - ab + b<sup>2</sup>)</b><br/><br/>
+<b>Area of Cylinder : v = 3.14<sup>*</sup>r<sup>2</sup></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>a<sup>3</sup> - b<sup>3</sup> = (a-b)<sup>*</sup> (a<sup>2</sup> + ab + <sup>2</sup>)</b><br/><br/>
+<b>Product :A<sup>m</sup><sup>*</sup>A<sup>n</sup> = a<sup>m</sup><sup>+</sup><sup>n</sup></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>(a+b)<sup>2</sup> = a<sup>2</sup> + 2ab + b<sup>2</sup></b><br/><br/>
+<b>Quotient :A<sup>m</sup> / A<sup>n</sup> = a<sup>m</sup><sup>-</sup><sup>n</sup></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>(a-b)<sup>2</sup> = a<sup>2</sup> - 2ab + b<sup>2</sup></b><br/><br/>
+<b>Power of Power : (a<sup>*</sup>b)<sup>n</sup> = a<sup>n</sup><sup>*</sup>b<sup>n</sup></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>(a+b+c)<sup>2</sup> = a<sup>2</sup> + b<sup>2</sup> + c<sup>2</sup> + 2(ab+bc+ca)</b><br/><br/>
+<b>Power of Power : (a/b)<sup>n</sup> = a<sup>n</sup>/b<sup>n</sup></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>(a+b)<sup>3</sup> = a<sup>3</sup> + b<sup>3</sup> + 3ab(a+b)</b><br/><br/>
+<b>Zero Exponents: a<sup>0</sup><sup>=</sup><sup>1</sup></b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>(a-b)<sup>3</sup> = a<sup>3</sup> - b<sup>3</sup> - 3ab(a-b)</b>
+</body>
+</html>
