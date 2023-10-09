@@ -1,0 +1,15 @@
+<html>
+<head></head>
+<body>
+<marquee bgcolor="pink"vespace="10px"onmouseleave="start()"onmouseover="stop()" direction="left">
+<h1><font color="skyblue">welcome to wikite</font></h1>
+<pre>
+kaashov infotech
+
+</pre>
+</marquee>
+<marquee bgcolor="white"vespace="10px"onmouseleave="start()"onmouseover="stop()" direction="left">
+<h2>wikitechy<h2>
+</marquee>
+</body>
+</html>
