@@ -1,0 +1,26 @@
+<html>
+<head></head>
+<body>
+<marquee bgcolor="white"onmouseleave="start()"onmouseover="stop()" direction="right">
+<h1>normal marquee</h1>
+</marquee>
+
+<marquee bgcolor="lightgreen"onmouseleave="start()"onmouseover="stop()"direction="right">
+<h1>quee control for univer</h1>
+</marquee>
+
+<marquee bgcolor="white"onmouseleave="start()"onmouseover="stop()"direction="right">
+<h1>ticker marquee</h>
+</marquee>
+
+<marquee hight="200px"bgcolor="red["onmouseleave="start()"onmouseover="stop()"direction="left">
+<h1>marquee</h1>
+</marquee>
+<marquee hight="200px"bgcolor="white["onmouseleave="start()"onmouseover="stop()"direction="right">
+<h1>marquee with easing function</h1>
+</marquee>
+<marquee hight="200px"bgcolor="blue["onmouseleave="start()"onmouseover="stop()"direction="right">
+<h1>marquee control</h1>
+</marquee>
+</body>
+</html>
