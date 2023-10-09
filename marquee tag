@@ -1,0 +1,8 @@
+<html>
+<head></head>
+<body>
+<marquee onmouseover="stop()"onmouseleave="start()"hight="50px"scrollamount="30" direction="right">
+<img src="car.jpg"/>
+</marquee>
+</body>
+</html>
