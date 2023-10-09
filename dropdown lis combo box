@@ -1,0 +1,14 @@
+<html>
+<head></head>
+<body>
+<h1>Dropdown list||Combo box<h1>
+<hr/>
+<select>
+<option>--select course--</option>
+<option selected value="st">summer traning</option>
+<option disabled value="app">apprenticship</option>
+<option>winter traning</option>
+</select>
+
+</body>
+</html>
