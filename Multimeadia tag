@@ -1,0 +1,28 @@
+<html>
+<head></head>
+<body>
+<h1>multmeadia tag<h1>
+<hr/>
+<video src="Ram.mp4"type="video/mp4"poster="ima1.jpg"autoplay muted width="300"height="400"controls ></video>
+<video src="mahadev.mp4"type="video/mp4"poster="ima2.jpg"autoplay muted width="350"height="450"controls ></video>
+<video src="hanuman.mp4"type="video/mp4"poster="ima3.jpg"autoplay muted width="250"height="300"controls ></video>
+<video src="demo.mp4"type="video/mp4"poster="ima4.jpg"autoplay muted width="300"height="400"controls ></video>
+<video src="Ram.mp4"type="video/mp4"poster="ima5.jpg"autoplay muted width="350"height="450"controls ></video>
+<video src="mahadev.mp4"type="video/mp4"poster="ima1.jpg"autoplay muted width="250"height="300"controls ></video>
+<video src="hanuman.mp4"type="video/mp4"poster="ima2.jpg"autoplay muted width="300"height="400"controls ></video>
+<video src="Ram.mp4"type="video/mp4"poster="ima3.jpg"autoplay muted width="350"height="450"controls ></video>
+<video src="mahadev.mp4"type="video/mp4"poster="ima4.jpg"autoplay muted width="250"height="300"controls ></video>
+<video src="hanuman.mp4"type="video/mp4"poster="ima5.jpg"autoplay muted width="300"height="400"controls ></video>
+<hr/>
+<audio src="shambhu.mp3"type="audio/mp3" width="300"height="400"controls></audio>
+<audio src="shambhu.mp3"type="audio/mp3"width="300"height="400"controls></audio>
+<audio src="shambhu.mp3"type="audio/mp3"width="300"height="400"controls></audio>
+<audio src="shambhu.mp3"type="audio/mp3"width="300"height="400"controls></audio>
+<audio src="shambhu.mp3"type="audio/mp3"width="300"height="400"controls></audio>
+<audio src="shambhu.mp3"type="audio/mp3"width="300"height="400"controls></audio>
+<audio src="shambhu.mp3"type="audio/mp3"width="300"height="400"controls></audio>
+<audio src="shambhu.mp3"type="audio/mp3"width="300"height="400"controls></audio>
+<audio src="shambhu.mp3"type="audio/mp3"width="300"height="400"controls></audio>
+<audio src="shambhu.mp3"type="audio/mp3"width="300"height="400"controls></audio>
+</body>
+</html>
