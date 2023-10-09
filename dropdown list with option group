@@ -1,0 +1,22 @@
+<html>
+<head></head>
+<body>
+<h1>Dropdown list with option group</h1>
+<hr/>
+<select>
+<optgroup label="frontend technology">
+<option>html</option>
+<option>css</option>
+<option>bootstrap</option>
+<option>javascript</option>
+<option>reacths</option>
+</optgroup>
+<optgroup label="backend technology">
+<option>c#</option>
+<option>java</option>
+<option>python</option>
+<option>javascript</option>
+</optgroup>
+</select>
+</body>
+</html>
