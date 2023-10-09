@@ -1,0 +1,27 @@
+<html>
+<head></head>
+<body>
+<h1>List of IIT colleges in INDIA<h1>
+<hr/>
+<input list="a2" type="text"/>
+<datalist id="a2">
+<option>IIT Madras</option>
+<option>IIT Delhi</option>
+<option>IIT Bombay</option>
+<option>IIT Kharagpur</option>
+<option>IIT Kanpur</option>
+<option>IIT Roorkee</option>
+<option>IIT Guwahati</option>
+<option>IIT Hyderabad</option>
+<option>IIT Indore</option>
+<option>IIT Bhubaneswar</option>
+<option>IIT Tirpati</option>
+<option>IIT Bhilai</option>
+<option>IIT Goa</option>
+<option>IIT Jammu</option>
+<option>IIT Dhanbad</option>
+<option>IIT Palakkad</option>
+<option>IIT Dharwad,Est	</option>
+</datalist>
+</body>
+</html>
